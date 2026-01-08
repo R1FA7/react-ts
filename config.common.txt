@@ -1,2 +1,3 @@
 hi i am common in all features
 hi i am a feature common file
+I am now in feature-3
